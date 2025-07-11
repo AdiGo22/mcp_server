@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adigo22-mcp-server-badge.png)](https://mseep.ai/app/adigo22-mcp-server)
+
 
 # MCP - Model Context Protocol
 
